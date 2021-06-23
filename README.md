@@ -111,6 +111,3 @@
 
 &emsp;&emsp;**愿它出于淤泥不染，最后也不会混乱的互联网所玷污。**
 
-<!-- Cloudflare Web Analytics -->
-<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "fd9833a4639f4db5ab91387f22e43364"}'></script>
-<!-- End Cloudflare Web Analytics -->
