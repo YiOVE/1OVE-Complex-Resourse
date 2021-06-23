@@ -8,11 +8,11 @@
 
 ## 如何加入？
 
-<font style="color:green">**Telegram群组**</font>：[https://t.me/OneDrive_1oveClub](https://t.me/OneDrive_1oveClub)
+<font style="color:darkred"><b>Telegram群组</b></font>：[https://t.me/OneDrive_1oveClub](https://t.me/OneDrive_1oveClub)
 
-<font style="color:green">**Telegram防失联+公告频道**</font>：[https://t.me/Home_1OVE](https://t.me/Home_1OVE)
+<font style="color:darkred"><b>Telegram防失联+公告频道</b></font>：[https://t.me/Home_1OVE](https://t.me/Home_1OVE)
 
-<font style="color:green">**论坛地址**</font>：[https://bbs.1ove.club](https://bbs.1ove.club)
+<font style="color:darkred"><b>论坛地址</b></font>：[https://bbs.1ove.club](https://bbs.1ove.club)
 
 ## 有什么优点呢？
 
