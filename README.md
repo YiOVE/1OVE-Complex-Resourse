@@ -4,7 +4,7 @@
 
 &emsp;&emsp;1ove生态主要致力于OneDrive资源分享，这是一场小打小闹，不足挂齿，往未参与之人不要笑话。
 
-## 1OVE Community
+## 【1OVE Community】
 
 &emsp;&emsp;1ove社区，简单介绍一下，它是大家分享交流onedrive资源的地方。
 
@@ -25,7 +25,7 @@
 3. OneDrive链接权限必须设置为“所有人可见”。
 4. 不允许植入广告，发现会采取相关措施。
 
-## 1OVE Club
+## 【1OVE Club】
 
 &emsp;&emsp;1ove club早期成立是为了有一个稳定的环境，后来出现了域内资源分享。
 
