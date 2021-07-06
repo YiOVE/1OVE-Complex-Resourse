@@ -12,7 +12,7 @@
 
 ### 如何加入呢？
 
-&emsp;&emsp;Telegram资源频道：[https://t.me/joinchat/C9MiVnMpbL8zM2Nl](https://t.me/joinchat/C9MiVnMpbL8zM2Nl)
+&emsp;&emsp;Telegram资源频道：[https://t.me/Our_1oveCommunity](https://t.me/Our_1oveCommunity)
 
 &emsp;&emsp;Telegram交流群：[https://t.me/HaoYangMaoDaXue](https://t.me/HaoYangMaoDaXue)
 
