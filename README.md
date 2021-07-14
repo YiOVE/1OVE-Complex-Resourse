@@ -2,7 +2,7 @@
 
 ## 引言
 
-&emsp;&emsp;1ove生态主要致力于OneDrive资源分享，这是一场小打小闹，不足挂齿，往未参与之人不要笑话。
+&emsp;&emsp;1ove生态主要致力于OneDrive/SharePoint资源分享，这是一场小打小闹，不足挂齿，往未参与之人不要笑话。
 
 ## 【1OVE Community】
 
@@ -11,6 +11,8 @@
 &emsp;&emsp;这里不限制你的分享，动漫？电影电视剧？没问题。学习资料？也没问题。**只要不是那种引人不适的敏感资源，一切资源皆可分享。**
 
 ### 如何加入呢？
+
+&emsp;&emsp;论坛板块：[https://bbs.1ove.club/forum-10.htm](https://bbs.1ove.club/forum-10.htm)
 
 &emsp;&emsp;Telegram资源频道：[https://t.me/Our_1oveCommunity](https://t.me/Our_1oveCommunity)
 
@@ -23,7 +25,9 @@
 1. **1ove社区是完全开放的，不收你任何费用。**
 2. 该社区目前只接受OneDrive链接，分享是通过机器人。
 3. OneDrive链接权限必须设置为“所有人可见”。
-4. 不允许植入广告，发现会采取相关措施。
+4. 允许植入适宜广告，从而达到激励群友的效果。更多激励措施，看有方链接。👉 [群友分享激励计划 | 1ove Community](https://blog.1ove.ml/post/encourage/)
+
+****
 
 ## 【1OVE Club】
 
@@ -32,6 +36,8 @@
 &emsp;&emsp;但强大的生命力往往是多元化的，故出现了以上的1OVE Community。
 
 更多详细介绍，请看右侧链接：[温暖的OneDrive资源交流世界——1OVE CLUB](https://www.qian.blue/archives/1ove-club.html)
+
+****
 
 ## 1OVE Community与1OVE Club对比
 
