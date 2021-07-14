@@ -25,7 +25,7 @@
 1. **1ove社区是完全开放的，不收你任何费用。**
 2. 该社区目前只接受OneDrive链接，分享是通过机器人。
 3. OneDrive链接权限必须设置为“所有人可见”。
-4. 允许植入适宜广告，从而达到激励群友的效果。更多激励措施，看有方链接。👉 [群友分享激励计划 | 1ove Community](https://blog.1ove.ml/post/encourage/)
+4. 允许植入适宜广告，从而达到激励群友的效果。更多激励措施，看有方链接。👉 [群友分享激励计划 丨 1ove Community](https://blog.1ove.ml/post/encourage/)
 
 ****
 
