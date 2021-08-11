@@ -10,6 +10,8 @@
 
 &emsp;&emsp;这里不限制你的分享，动漫？电影电视剧？没问题。学习资料？也没问题。**只要不是那种引人不适的敏感资源，一切资源皆可分享。**
 
+&emsp;&emsp;在这个社区，是**完全免费无门槛**的，就是想成就一个和谐友好的交流环境。
+
 ## 详情介绍
 
 &emsp;&emsp;[1ove Community - 1OVE生态](https://1ove.club/1oveCommunity.html)
