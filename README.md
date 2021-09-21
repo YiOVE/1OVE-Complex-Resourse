@@ -18,11 +18,11 @@
 
 ### 如何加入呢？
 
-&emsp;&emsp;免费OneDrive微软云盘资源：人人皆可分享(1OVE Community)：[https://t.me/Our_1oveCommunity](https://t.me/Our_1oveCommunity)
+&emsp;&emsp;免费OneDrive微软云盘资源：人人皆可分享(1OVE Community)：[@Our_1oveCommunity](https://t.me/Our_1oveCommunity)
 
-&emsp;&emsp;薅羊毛大学：纯粹的Office365交流与分享(1OVE Community)：[https://t.me/HaoYangMaoDaXue](https://t.me/HaoYangMaoDaXue)
+&emsp;&emsp;薅羊毛大学：纯粹的Office365交流与分享(1OVE Community)：[@HaoYangMaoDaXue](https://t.me/HaoYangMaoDaXue)
 
-&emsp;&emsp;Telegram主频道：[https://t.me/Home_1OVE](https://t.me/Home_1OVE)
+&emsp;&emsp;Telegram主频道：[@Home_1OVE](https://t.me/Home_1OVE)
 
 ## 结语
 
