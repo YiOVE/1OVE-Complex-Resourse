@@ -1,4 +1,4 @@
-# 1OVE资源生态 - 最好的OneDrive/SharePoint/微软云盘资源交流
+# 1OVE Community - 最好的OneDrive/SharePoint/微软云盘资源交流
 
 ## 引言
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;[1ove Community - 1OVE生态](https://1ove.club/1oveCommunity.html)
 
-### 如何加入呢？
+### Telegram
 
 &emsp;&emsp;免费OneDrive微软云盘资源：人人皆可分享(1OVE Community)：[@Our_1oveCommunity](https://t.me/Our_1oveCommunity)
 
