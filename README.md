@@ -1,31 +1,24 @@
-# 1OVE Community - 最好的OneDrive/SharePoint/微软云盘资源交流
+# 1OVE综合资源
 
 ## 引言
 
-&emsp;&emsp;1ove生态主要致力于OneDrive/SharePoint资源分享，这是一场小打小闹，不足挂齿，往未参与之人不要笑话。
+~~1OVE Community - 最好的OneDrive/SharePoint/微软云盘资源交流~~
 
-## 【1OVE Community】
+原来的OneDrive方便转存的域内分享，已经搞不下去了。
 
-&emsp;&emsp;1ove社区，简单介绍一下，它是大家分享交流onedrive资源的地方。包括Telegram和论坛。
+缘由：[https://bbs.1ove.club/thread-25122.htm](https://bbs.1ove.club/thread-25122.htm)
 
-&emsp;&emsp;这里不限制你的分享，动漫？电影电视剧？没问题。学习资料？也没问题。**只要不是那种引人不适的敏感资源，一切资源皆可分享。**
+## 转型
 
-&emsp;&emsp;在这个社区，是**完全免费无门槛**的，就是想成就一个和谐友好的交流环境。
+不再局限于OneDrive域内分享，开始接受各类云盘的资源。
 
-## 详情介绍
+比如，阿里云盘、夸克云盘、迅雷云盘，当然OneDrive也还是包含的。
 
-&emsp;&emsp;[1ove Community - 1OVE生态](https://1ove.club/1oveCommunity.html)
+## 相关使用
 
-### Telegram
+频道：[@Complex_1OVE](https://t.me/Complex_1OVE)
 
-&emsp;&emsp;免费OneDrive微软云盘资源：人人皆可分享(1OVE Community)：[@Our_1oveCommunity](https://t.me/Our_1oveCommunity)
+群组：[@HaoYangMaoDaXue](https://t.me/HaoYangMaoDaXue)
 
-&emsp;&emsp;薅羊毛大学：纯粹的Office365交流与分享(1OVE Community)：[@HaoYangMaoDaXue](https://t.me/HaoYangMaoDaXue)
+机器人：[@Complex_1ove_bot](https://t.me/Complex_1ove_bot)
 
-&emsp;&emsp;Telegram主频道：[@Home_1OVE](https://t.me/Home_1OVE)
-
-## 结语
-
-&emsp;&emsp;期待你的加入。
-
-<img referrerpolicy="no-referrer-when-downgrade" src="https://analytics.1ove.club/matomo.php?idsite=9&amp;rec=1" style="border:0" alt="" />
